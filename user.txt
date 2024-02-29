@@ -1,2 +1,4 @@
 name : Əzi
 surname : Cəbrayılov
+phone : 055-855-48-29
+
